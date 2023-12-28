@@ -22,16 +22,16 @@ const Hero = () => {
               {" "}
               <ul className="flex justify-center items-center">
                 <li className="ml-12 hover:brightness-150 hover:scale-105 hover:text-white transition-all">
-                  <a href="#">// HOME</a>
+                  <a href="#">/ HOME</a>
                 </li>
                 <li className="ml-12 hover:brightness-125 hover:scale-105 transition-all">
-                  <a href="#">// ABOUT US</a>
+                  <a href="#">/ ABOUT US</a>
                 </li>
                 <li className="ml-12 hover:brightness-125 hover:scale-105 transition-all">
-                  <a href="#">// RFQ</a>
+                  <a href="#">/ RFQ</a>
                 </li>
                 <li className="ml-12 hover:brightness-125 hover:scale-105 transition-all">
-                  <a href="#">// CONTACT US</a>
+                  <a href="#">/ CONTACT US</a>
                 </li>
               </ul>
             </div>
