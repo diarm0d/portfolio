@@ -4,7 +4,6 @@ import StoryblokStory from "@storyblok/react/story";
 export default async function Home() {
   const { data } = await fetchData();
 
-  console.log(data.story.content);
   return (
     <>
       <StoryblokStory story={data.story} />
